@@ -42,7 +42,7 @@ header li{
 }
 
 main{
-  background-image:url(../img/background_img.png);
+  background-image:url(background_img.png);
   background-size:cover;
   height:550px;
   position:relative;
