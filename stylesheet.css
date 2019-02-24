@@ -1,6 +1,11 @@
+*{
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+  list-style-type:none;
+}
 body{
  width:100%;
- box-sizing:border-box;
  font-family:'ヒラギノ角ゴ ProN W3',sans-serif;
 }
 header h1{
@@ -10,9 +15,6 @@ header h1{
 header ul{
     height:40px;
     clear:left;
-}
-header li{
-  list-style-type:none;
 }
 .navi{
   float:left;
@@ -42,7 +44,7 @@ header li{
 }
 
 main{
-  background-image:url(background_img.png);
+  background-image:url(../img/background_img.png);
   background-size:cover;
   height:550px;
   position:relative;
@@ -50,6 +52,7 @@ main{
 .profile01{
   width:450px;
   height:50px;
+  background-color:white;
   background-color:rgba(255,255,255,0.2);
   color:#0000cd;
   font-size:38px;
