@@ -57,7 +57,7 @@ main{
   font-size:38px;
   font-weight:bold;
   padding:10px 30px 10px 30px;
-  line-height:50px;
+  line-height:70px;
   position:absolute;
   border-radius:20px;
   top:40px;
@@ -66,7 +66,7 @@ main{
 
 .profile02{
   width:450px;
-  height:250px;
+  height:360px;
   background-color:rgba(255,255,255,0.2);
   color:#000080;
   font-size:18px;
